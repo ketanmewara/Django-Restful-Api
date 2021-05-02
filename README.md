@@ -9,4 +9,4 @@
 
 ## TEST APIS
 
-<img width="677" alt="Capture" src="https://user-images.githubusercontent.com/69419106/116810176-d9d83480-ab5f-11eb-8427-1cc9481a0562.PNG">
+<img width="677" alt="Capture" src="https://user-images.githubusercontent.com/69419106/116810236-4eab6e80-ab60-11eb-8127-dada0c216dc8.PNG">
